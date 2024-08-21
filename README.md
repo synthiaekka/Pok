@@ -1,1 +1,1 @@
-# Pok
+# Proof of Knowledge certification system
