@@ -1,4 +1,10 @@
+![image](https://github.com/user-attachments/assets/dc35abab-c2c8-4282-a6bb-9a9b16e90535)
+
+
 # Proof of Knowledge certification system (Pok)
+# Contract Address:
+0x7Eb049e5FD069368ff186adf36A5E466df9fbC11
+
 # Project Description
 The Proof of Knowledge (PoK) Certification System is a decentralized platform for awarding and verifying student achievements using blockchain technology. Students earn certificates by proving their knowledge through quizzes and challenges. These certificates are stored on the blockchain and verified via smart contracts, ensuring their authenticity and security.
 
