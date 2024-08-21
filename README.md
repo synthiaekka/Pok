@@ -22,8 +22,11 @@ Engagement: Competitive platform that motivates students to excel.
 We aim to transform knowledge certification by combining blockchain and gamification. Our vision is to:
 
 Empower Learners: Offer a transparent and verifiable way to showcase skills.
+
 Enhance Credibility: Ensure authentic certifications through blockchain.
+
 Foster Engagement: Make learning interactive with gamified elements.
+
 Promote Transparency: Provide a decentralized, open system for recognition.
 
 
